@@ -18,3 +18,12 @@ A python program that counts the number of complementary sequences with a minimu
 Usage: sticky_finder_v3_counter.py fasta_file_randonmized_seqs GC%threshold of the complementary sequences
 
 Output format: transcript name,gene name,sequence length,total # of palindromes,total # of inverted repeats,total number of sense-antisense sequences
+
+
+***********************************************************************************************************************************************************************************************************************
+
+UPDATE (03/10/2025): We have developed a graphical user interface (GUI) based on the Python scripts "sticky_finder_v3.py" and "sticky_finder_v3_counter.py". The application, "Sticky Finder.exe," can be run locally without the need to preinstall Python or any additional scripts.
+
+For more details, please refer to: Sticky Finder Application Guide v1.pdf.
+
+***********************************************************************************************************************************************************************************************************************
