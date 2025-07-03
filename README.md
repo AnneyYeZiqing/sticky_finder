@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/722271342.svg)](https://doi.org/10.5281/zenodo.15802322)
+
 Before using Sticky finder or Sticky finder counter, please make sure to download fasta.py and expSS_score.py
 
 
